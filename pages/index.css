@@ -102,7 +102,7 @@
   box-sizing: border-box;
 }
 
-.header__paragraph {
+.header__footer-paragraph {
   display: flex;
   flex-direction: column;
 }
@@ -116,7 +116,7 @@
   color: #838383;
 }
 
-.footer__list {
+.header__footer-list {
   margin: 0;
   padding: 0;
 }
