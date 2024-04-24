@@ -109,10 +109,16 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
-  color: #838383;
+  color: #6f6f6f;
+  display: flex;
+  align-self: flex-end;
 }
 
-.header__footer-list {
+.header__footer_list {
   margin: 0;
   padding: 0;
+}
+
+.header__footer_list-item {
+  color: #6f6f6f;
 }

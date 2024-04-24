@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Add more animations throughout the webpage. It will really
+make it pop with more of them, letting people know the
+coffeeshop is a fun place to study and/or visit with others.
