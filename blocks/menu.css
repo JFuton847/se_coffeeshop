@@ -1,7 +1,7 @@
 .menu {
   background-color: #ffffff;
   color: #000000;
-  background-image: url(/images/background_menu.svg);
+  background-image: url(../images/background_menu.svg);
   display: flex;
   flex-direction: column;
   padding: 100px;
@@ -12,7 +12,6 @@
 }
 
 .menu__title {
-  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -24,7 +23,7 @@
 }
 
 .menu__subtitle {
-  font-family: "Noto Serif", Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -41,62 +40,4 @@
   justify-content: center;
   flex-wrap: wrap;
   gap: 100px;
-}
-
-.card1 {
-}
-
-.card2 {
-}
-.card3 {
-}
-
-.card__title {
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  margin: 0 0 32px;
-}
-
-.card__list1 {
-  padding: 0;
-  align-self: flex-start;
-  font-family: "Noto Serif", Times New Roman, serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  width: 540px;
-}
-
-.card__list2 {
-  padding: 0;
-  font-family: "Noto Serif", Times New Roman, serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  width: 540px;
-}
-.card__list3 {
-  padding: 0;
-  font-family: "Noto Serif", Times New Roman, serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  width: 540px;
-}
-
-.card__list-item {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 16px;
-}
-
-.card__list-divider {
-  flex-grow: 1;
-  border-bottom: 1px solid #000;
 }

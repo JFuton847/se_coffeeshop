@@ -2,13 +2,13 @@
   box-sizing: border-box;
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
   color: white;
-  /* padding: 60px 80px 108px; */
+  padding: 60px 80px 108px;
 }
 
 .footer__contents {
   display: flex;
   justify-content: space-between;
-  padding: 60px 80px 0;
+  padding: 60px 80px 108px;
 }
 
 .footer__content_social-media {
@@ -21,13 +21,9 @@
 }
 
 .footer__social-heading {
-  text-align: right;
   margin: 0 0 20px;
-  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .footer__list {
@@ -55,11 +51,8 @@
   display: flex;
   align-items: center;
   gap: 10px;
-  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
   transition: 0.5s ease-in-out 0.25s;
 }
 
@@ -68,11 +61,8 @@
 }
 
 .footer__copyright {
-  padding: 108px 0px 60px 80px;
-  font-family: "Inter", Arial, sans-serif;
+  padding-left: 80px;
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
   margin: 0;
 }
