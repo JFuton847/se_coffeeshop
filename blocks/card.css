@@ -1,11 +1,3 @@
-.card1 {
-}
-
-.card2 {
-}
-.card3 {
-}
-
 .card__title {
   font-style: normal;
   font-weight: bold;
@@ -14,23 +6,7 @@
   margin: 0 0 32px;
 }
 
-.card__list1 {
-  padding: 0;
-  align-self: flex-start;
-  font-family: "Noto Serif", "Times New Roman", serif;
-  font-style: normal;
-  font-weight: normal;
-  width: 540px;
-}
-
-.card__list2 {
-  padding: 0;
-  font-family: "Noto Serif", "Times New Roman", serif;
-  font-style: normal;
-  font-weight: normal;
-  width: 540px;
-}
-.card__list3 {
+.card__list {
   padding: 0;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;

@@ -40,4 +40,6 @@
   justify-content: center;
   flex-wrap: wrap;
   gap: 100px;
+  margin: 0;
+  padding-left: 0;
 }

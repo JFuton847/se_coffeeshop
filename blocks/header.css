@@ -60,30 +60,16 @@
   align-items: center;
   justify-content: space-between;
   box-sizing: border-box;
+  align-items: flex-end;
 }
 
-.header__footer-paragraph {
-  display: flex;
-  flex-direction: column;
-}
-
-.header__address {
+.header__paragraph {
   margin: 0;
+  padding: 0;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   color: #838383;
   display: flex;
-  align-self: flex-end;
-}
-
-.header__footer_list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.header__footer_list-item {
-  color: #838383;
-  font-weight: 500;
+  flex-direction: column;
 }
