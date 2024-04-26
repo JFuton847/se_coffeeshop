@@ -71,6 +71,8 @@
   border-radius: 2px;
   font-style: normal;
   font-weight: 500;
+  width: 20px;
+  height: 20px;
 }
 
 .form__checkbox:checked {
